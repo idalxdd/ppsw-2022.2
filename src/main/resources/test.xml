@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE presentation SYSTEM "jabberpoint.dtd">
+<presentation>
+	<showtitle>XML-Based Presentation for Jabberpoint</showtitle>
+	<slide>
+		<title>JabberPoint XML-Demo</title>
+		<item kind="text"  level="1">Bem vindo ao Jabberpoint</item>
+		<item kind="text"  level="2">Copyright (c) 1996-2021 Ian Darwin</item>
+		<item kind="text"  level="2">Reescrito por</item>
+		<item kind="text"  level="2">Helaine Barreiros</item>
+		<item kind="text"  level="1">Navegação:</item>
+		<item kind="text"  level="2">Próximo Slide: PgDn ou Enter</item>
+		<item kind="text"  level="2">Slide Anterior: PgUp ou up-arrow</item>
+		<item kind="text"  level="2">Parar: q ou Q</item>
+	</slide>
+	<slide>
+		<title>Exemplo de um Slide vazio</title>
+		<item kind="text"  level="1"> </item>
+	</slide>
+	<slide>
+		<title>Fundo</title>
+		<item kind="text"  level="1">Jabberpoint é um projeto utilizado na</item>
+		<item kind="text"  level="1">disciplina de Padrões de Projeto de Software do curso de Engenharia de Engenharia de Software da Universidade de Pernambuco</item>
+		<item kind="text"  level="1"> </item>
+		<item kind="image"  level="2">classpath:upe.jpg</item>
+		<item kind="text"  level="1"> </item>
+		<item kind="text"  level="1">Do Multicampi Garanhuns</item>
+		<item kind="text"  level="1"> </item>
+		<item kind="image"  level="2">classpath:upe_garanhuns.jpg</item>
+	</slide>
+	<slide>
+		<title>JabberPoint: Níveis e Estilos</title>
+		<item kind="text"  level="1">Nível 1</item>
+		<item kind="text"  level="2">Nível 2</item>
+		<item kind="text"  level="1">Apresentação Jabber</item>
+		<item kind="text"  level="2">Nível 2 tem Estilo 2</item>
+		<item kind="text"  level="3">Nível 3 tem este estilo</item>
+		<item kind="text"  level="4">E o nível 4 tem este</item>
+	</slide>
+	<slide>
+		<title>Slide Final</title>
+		<item kind="text"  level="1">Você também pode navegar através do menu</item>
+		<item kind="text"  level="2">Arquivo->Abrir</item>
+		<item kind="text"  level="1"> </item>
+		<item kind="image"  level="1">classpath:JabberPoint.jpg</item>		
+	</slide>
+</presentation>
